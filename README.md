@@ -1,7 +1,5 @@
 ## Download All files from Google Drive with a python script 
 
-### Enable *Google Drive API* from Google developers console & set the client key and download client_secrets.json file
-
 **Using Google developers console** 
 
 Steps
@@ -17,7 +15,7 @@ Steps
 - Click *What credentials do I need?*
 5. Click *Create OAuth client ID* & *Done*
 6. Now Download JSON by clicking small down arrow 
-
+7. Keep the client_secrets.json in same folder as the **gDriveDownload.py** file
 
 
 **Using OAuth 2.0 Playground**
