@@ -3,6 +3,7 @@
 ### Enable *Google Drive API* from Google developers console & set the client key and download client_secrets.json file
 
 **Using Google developers console** 
+
 Steps
 1. Go to https://console.developers.google.com/apis/dashboard
 2. Search for *Google Drive API* & click *Enable*
@@ -20,6 +21,7 @@ Steps
 
 
 **Using OAuth 2.0 Playground**
+
 Steps
 1. Go to https://developers.google.com/oauthplayground/
 2. Select *Drive API v3* API and 'https://www.googleapis.com/auth/drive.readonly'
